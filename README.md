@@ -1,6 +1,6 @@
 # E-Commerce Microservices #
 
-This project was created to complete the following LinkedIn Learning course:
+This repo was created to complete the following LinkedIn Learning course:
 
 [Azure Microservices with .NET Core for Developers](https://www.linkedin.com/learning/azure-microservices-with-dot-net-core-for-developers)
 
